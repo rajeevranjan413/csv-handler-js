@@ -1,6 +1,6 @@
 # File Handler Utility
 
-A Python utility for handling file operations, specifically designed for reading CSV files and processing multiple files efficiently.
+A Js utility for handling file operations, specifically designed for reading CSV files and processing multiple files efficiently.
 
 ## Features
 
